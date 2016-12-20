@@ -1,0 +1,111 @@
+#tab{
+	width:100%;
+}
+#row1{
+	width:100%;
+			
+}
+#td1{
+	display:flex;
+	background-color: #8452BC;
+}
+#ull{
+    display: flex;
+	list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+    margin-left: 250px;
+  
+}
+.list{
+	
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+#ll{
+	marginleft:20px;
+	color:white;
+}
+#btn{
+	height:25px;
+	with:40px;
+	border-radius:5px;
+	margin-left: 274px;
+}
+#row2{
+	background-image: url("kid.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	height: 500px;
+	width:100%;
+}
+#div1{
+	height: 100%;
+	width: 100%;
+	background-color: #958E9D;
+}
+#div2{
+	height: 295px;
+	width: 550px;
+	background-color: #5FE38F;
+	diplay:none;
+	opacity:0.5;
+	margin-left: 30px;
+}
+/* #row3{
+	height:300px;
+	width:100%;
+} */
+#td3{
+    display:flex;
+    height: 227px;
+    width: 100%;
+	background-color: #F6E3E3;
+}
+#div3{
+	height:227px;
+	width:50%;
+    background-color: #0c0c0c;
+/* 	opacity:0.5; */
+}
+.para{
+	    margin-left: 100px;
+    margin-top: -10px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 36px;
+
+}
+#div4{
+	height:227px;
+	width:50%;
+	background-color:#98FB98;
+	opacity:0.5;
+}
+#par{
+	margin-left: 178px;
+    margin-top: 30px;
+    font-size: 30px;
+    color: #e21ec0;
+}
+#td4{
+	background-color: #1E90FF;
+	height: 500px;
+}
+#par2{
+	margin-top: -192px;
+    margin-left: 492px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#par3{
+	margin-left: 281px;
+    margin-top: 14px;
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
